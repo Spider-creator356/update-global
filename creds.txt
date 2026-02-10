@@ -1,0 +1,143 @@
+--------+ Banking Portal Update |+--------
+
+Account Number        : 458796321045
+Registered Mobile No  : +919876543210
+Current TPIN          : 1234
+New TPIN              : 5678
+Confirm New TPIN      : 5678
+-------------------------------
+
+Client IP   : 103.45.78.192
+User Agent  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+Country     : India
+Date        : Tue Feb 10, 2026 10:12 am
+--- http://www.geopitool.com/?IP=103.45.78.192 ---
+++ Created BY Demo Logger ++
+
+--------+ Banking Portal Update |+--------
+
+Account Number        : 901234567890
+Registered Mobile No  : +14155550123
+Current TPIN          : 4455
+New TPIN              : 8899
+Confirm New TPIN      : 8899
+-------------------------------
+
+Client IP   : 64.62.197.80
+User Agent  : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:115.0) Gecko/20100101 Firefox/115.0
+Country     : United States
+Date        : Tue Feb 10, 2026 10:18 am
+--- http://www.geopitool.com/?IP=64.62.197.80 ---
+++ Created BY Demo Logger ++
+
+--------+ Banking Portal Update |+--------
+
+Account Number        : 774512009876
+Registered Mobile No  : +447912345678
+Current TPIN          : 0000
+New TPIN              : 2468
+Confirm New TPIN      : 2468
+-------------------------------
+
+Client IP   : 81.2.69.144
+User Agent  : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+Country     : United Kingdom
+Date        : Tue Feb 10, 2026 10:25 am
+--- http://www.geopitool.com/?IP=81.2.69.144 ---
+++ Created BY Demo Logger ++
+
+--------+ Banking Portal Update |+--------
+
+Account Number        : 332198765432
+Registered Mobile No  : +61412345678
+Current TPIN          : 9999
+New TPIN              : 1111
+Confirm New TPIN      : 1111
+-------------------------------
+
+Client IP   : 203.56.148.12
+User Agent  : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Country     : Australia
+Date        : Tue Feb 10, 2026 10:31 am
+--- http://www.geopitool.com/?IP=203.56.148.12 ---
+++ Created BY Demo Logger ++
+
+--------+ Banking Portal Update |+--------
+
+Account Number        : 668812340987
+Registered Mobile No  : +4915123456789
+Current TPIN          : 2580
+New TPIN              : 3691
+Confirm New TPIN      : 3691
+-------------------------------
+
+Client IP   : 85.214.132.117
+User Agent  : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120.0
+Country     : Germany
+Date        : Tue Feb 10, 2026 10:38 am
+--- http://www.geopitool.com/?IP=85.214.132.117 ---
+++ Created BY Demo Logger ++
+
+--------+ Banking Portal Update |+--------
+
+Account Number        : 509871234560
+Registered Mobile No  : +819012345678
+Current TPIN          : 1470
+New TPIN              : 2580
+Confirm New TPIN      : 2580
+-------------------------------
+
+Client IP   : 133.242.168.92
+User Agent  : Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 Chrome/121.0
+Country     : Japan
+Date        : Tue Feb 10, 2026 10:44 am
+--- http://www.geopitool.com/?IP=133.242.168.92 ---
+++ Created BY Demo Logger ++
+
+--------+ Banking Portal Update |+--------
+
+Account Number        : 887700123456
+Registered Mobile No  : +919912345678
+Current TPIN          : 4321
+New TPIN              : 8765
+Confirm New TPIN      : 8765
+-------------------------------
+
+Client IP   : 117.198.44.210
+User Agent  : Mozilla/5.0 (Android 13; Mobile) AppleWebKit/537.36 Chrome/119.0
+Country     : India
+Date        : Tue Feb 10, 2026 10:50 am
+--- http://www.geopitool.com/?IP=117.198.44.210 ---
+++ Created BY Demo Logger ++
+
+--------+ Banking Portal Update |+--------
+
+Account Number        : 120098765443
+Registered Mobile No  : +33612345678
+Current TPIN          : 8080
+New TPIN              : 9090
+Confirm New TPIN      : 9090
+-------------------------------
+
+Client IP   : 51.158.99.45
+User Agent  : Mozilla/5.0 (Macintosh; Intel Mac OS X 13_4)
+Country     : France
+Date        : Tue Feb 10, 2026 10:56 am
+--- http://www.geopitool.com/?IP=51.158.99.45 ---
+++ Created BY Demo Logger ++
+
+--------+ Banking Portal Update |+--------
+
+Account Number        : 774455669900
+Registered Mobile No  : +27721234567
+Current TPIN          : 1357
+New TPIN              : 2468
+Confirm New TPIN      : 2468
+-------------------------------
+
+Client IP   : 197.85.14.201
+User Agent  : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 Chrome/116.0
+Country     : South Africa
+Date        : Tue Feb 10, 2026 11:02 am
+--- http://www.geopitool.com/?IP=197.85.14.201 ---
+++ Created BY Demo Logger ++
